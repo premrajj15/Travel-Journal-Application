@@ -8,7 +8,7 @@ import {
 } from "react";
 
 const BASE_URL =
-  "https://my-json-server.typicode.com/premrajj15/Travel-Journal-Application/";
+  "https://my-json-server.typicode.com/premrajj15/Travel-Journal-Application";
 
 const CitiesContext = createContext();
 
