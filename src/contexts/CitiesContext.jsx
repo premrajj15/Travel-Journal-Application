@@ -7,7 +7,8 @@ import {
   useState,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL =
+  "https://my-json-server.typicode.com/premrajj15/Travel-Journal-Application/";
 
 const CitiesContext = createContext();
 
